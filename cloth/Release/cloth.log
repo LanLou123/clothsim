@@ -1,0 +1,18 @@
+﻿  step.cpp
+step.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+step.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+step.obj : error LNK2001: unresolved external symbol __imp____glutCreateWindowWithExit@8
+step.obj : error LNK2001: unresolved external symbol __imp____glutInitWithExit@12
+step.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+step.obj : error LNK2001: unresolved external symbol _glewGetErrorString@4
+step.obj : error LNK2001: unresolved external symbol ___glewBufferData
+step.obj : error LNK2001: unresolved external symbol __imp__glutInitDisplayMode@4
+step.obj : error LNK2001: unresolved external symbol ___glewDisableVertexAttribArray
+step.obj : error LNK2001: unresolved external symbol __imp__glutDisplayFunc@4
+step.obj : error LNK2001: unresolved external symbol __imp__glutMainLoop@0
+step.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+step.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowPosition@8
+step.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowSize@8
+step.obj : error LNK2001: unresolved external symbol _glewInit@0
+step.obj : error LNK2001: unresolved external symbol __imp__glutSwapBuffers@0
+D:\cis660\leet1\cloth\Release\cloth.exe : fatal error LNK1120: 16 unresolved externals

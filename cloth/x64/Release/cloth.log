@@ -1,0 +1,8 @@
+﻿  clothphysics.cpp
+  Generating code
+  37 of 571 functions ( 6.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cloth.vcxproj -> D:\cis660\leet1\cloth\x64\Release\cloth.exe
+  cloth.vcxproj -> D:\cis660\leet1\cloth\x64\Release\cloth.pdb (Full PDB)
